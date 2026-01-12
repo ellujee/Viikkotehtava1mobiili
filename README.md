@@ -6,3 +6,10 @@ Tiedostot
 -MockData.kt testilista tehtävistä
 -TaskFunctions.kt listan lajittelu
 -MainActivity.kt käyttöliittymä
+
+Miten ajetaan:
+Lataa koodi: Lataa projekti koneellesi tai kloonaa se Gitillä.
+Avaa Android Studio: Valitse "Open" ja etsi kansio, johon tallensit projektin.
+Odota latautumista: Anna Android Studion ladata tarvittavat asetukset (Gradle sync).
+Käynnistä: Paina yläpalkista vihreää "Run"-nappia.
+Emulaattori: Sovellus aukeaa valitsemallesi emulaattorille tai kytketylle puhelimelle.
